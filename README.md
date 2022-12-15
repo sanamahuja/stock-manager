@@ -1,2 +1,2 @@
 # stock-manager
-gui based stock mansagement
+gui based stock management
